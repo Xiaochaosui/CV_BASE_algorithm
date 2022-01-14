@@ -13,6 +13,7 @@ LBP（Local Binary Patterns，局部二值模式）是提取局部特征作为�
 https://blog.csdn.net/peng_peng123/article/details/51755119 学习来源
 基本思想是：用中心像素的灰度值作为阈值，与它的邻域相比较得到的二进制码来表述局部纹理特征。
 '''
+
 */
 
 #include <iostream>
@@ -52,6 +53,8 @@ void getOriginLBPFeature(cv::Mat _src,cv::Mat dst)
     }
 }
 
+
+//原始LBP特征显示
 void test1()
 {
    string img_file ;
