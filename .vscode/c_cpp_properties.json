@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "D:\\xcsy\\tools\\OpenCV-MinGW-Build-OpenCV-4.5.2-x64\\include",
+        "D:\\xcsy\\tools\\OpenCV-MinGW-Build-OpenCV-4.5.2-x64\\include\\opencv2"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "D:/xcsy/tools/CodeBlocks/mingw64/bin/gcc.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerArgs": [
+        "-Wall",
+        "-Wextra",
+        "-Wpedantic"
+      ]
+    }
+  ],
+  "version": 4
+}

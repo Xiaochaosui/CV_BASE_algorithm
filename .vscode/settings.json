@@ -1,0 +1,25 @@
+{
+  "files.associations": {
+    "cmath": "cpp",
+    "iostream": "cpp"
+  },
+  "C_Cpp_Runner.cCompilerPath": "D:/xcsy/tools/CodeBlocks/mingw64/bin/gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "D:/xcsy/tools/CodeBlocks/MinGW/bin/g++.exe",
+  "C_Cpp_Runner.debuggerPath": "gdb",
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic"
+  ],
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.includePaths": [
+    "D:\\xcsy\\tools\\OpenCV-MinGW-Build-OpenCV-4.5.2-x64\\include",
+    "D:\\xcsy\\tools\\OpenCV-MinGW-Build-OpenCV-4.5.2-x64\\include\\opencv2"
+  ],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.cStandard": "c11",
+  "C_Cpp_Runner.cppStandard": "c++17",
+  "C_Cpp_Runner.excludeSearch": [],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false
+}
